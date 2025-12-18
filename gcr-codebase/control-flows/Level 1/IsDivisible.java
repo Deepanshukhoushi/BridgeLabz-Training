@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class IsDivisible{
     public static void main(String[] args){
-	// take input for a number
+	// take input from user 
 	Scanner input = new Scanner(System.in);
 	System.out.println("Enter the number: ");
 	int number = input.nextInt();
