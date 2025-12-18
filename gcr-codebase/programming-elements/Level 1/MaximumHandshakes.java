@@ -7,15 +7,11 @@ public class MaximumHandshakes {
         int numberOfStudents = input.nextInt();
 
         // Calculate maximum handshakes
-        int maximumHandshakes = calculateHandshakes(numberOfStudents);
+        int maximumHandshakes = (numberOfStudents * (numberOfStudents - 1)) / 2;
 
         // Display result
         System.out.println("The maximum number of possible handshakes is " + maximumHandshakes);
 
         input.close();
-    }
-
-    private static int calculateHandshakes(int n) {
-        return (n * (n - 1)) / 2;
     }
 }
