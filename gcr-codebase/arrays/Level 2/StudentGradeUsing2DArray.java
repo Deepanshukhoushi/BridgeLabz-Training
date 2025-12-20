@@ -52,15 +52,18 @@ public class StudentGradeUsing2DArray {
             }
         }
 
-        System.out.println("\nPhysics\tChemistry\tMaths\tPercentage\tGrade");
-        for (int i = 0; i < numberOfStudents; i++) {
-            System.out.printf("%.1f\t%.1f\t\t%.1f\t%.2f%%\t\t%c\n",
-                    marks[i][0],
-                    marks[i][1],
-                    marks[i][2],
-                    percentage[i],
-                    grade[i]);
+        System.out.println("Physics Chemistry Maths Percentage Grade");
+
+	for (int i = 0; i < numberOfStudents; i++) {
+    	    System.out.println(
+                marks[i][0] + "   " +
+                marks[i][1] + "   " +
+                marks[i][2] + "   " +
+                percentage[i] + "%   " +
+                grade[i]
+            );
         }
+
 
         input.close();
     }
