@@ -1,7 +1,7 @@
 # BridgeLabz-Training
 ## 🗓 Day 1 – Git & GitHub Setup
 
-**Date: 16-Dec-2025**
+**(Date: 16-Dec-2025)**
 
 * Installed and configured Git on the local system.
 * Created and set up a GitHub repository for training work.
@@ -27,3 +27,17 @@ BridgeLabz-Training/
 
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
 - Successfully pushed files to the remote repository.
+
+---
+
+### 📆 Day 2 – Git Practice & Basic Java Programs  
+**(Date: 17-Dec-2025)**
+
+- Practiced Git workflow to understand version control.
+- Repeated add, commit, and push commands.
+- Solved basic Java programs to understand syntax and structure.
+- Organized Java programs inside the `programming-prerequisites` folder.
+- Successfully committed and pushed the code to GitHub.
+
+🔗 **Code Link:**  
+👉 https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite
