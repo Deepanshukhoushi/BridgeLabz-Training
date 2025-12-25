@@ -1,5 +1,5 @@
-# BridgeLabz-Training
-## 🗓 Day 1 – Git & GitHub Setup
+## BridgeLabz-Training
+### 🗓 Day 1 – Git & GitHub Setup
 
 **(Date: 16-Dec-2025)**
 
@@ -17,7 +17,7 @@ BridgeLabz-Training/
 │ │ │── extras/
 │ │ │── methods/
 │ │ │── programming-elements/
-│ │ │── programming-prerequisites/
+│ │ │── program-prerequisites/
 │ │ │── strings/
 │ │── leet-code-codebase/
 │ │── scenario-based-codebase/
@@ -37,11 +37,11 @@ BridgeLabz-Training/
 - Practiced Git workflow to understand version control.
 - Repeated add, commit, and push commands.
 - Solved basic Java programs to understand syntax and structure.
-- Organized Java programs inside the `programming-prerequisites` folder.
+- Organized Java programs inside the `program-prerequisites` folder.
 - Successfully committed and pushed the code to GitHub.
 
 🔗 **Code Link:**  
-👉 https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite
+👉 [Day 2 - program-prerequisite](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
 ---
 
@@ -56,6 +56,24 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+👉 [Day 3 – Programming Elements](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
+---
+
+### 🗓 Day 5 – Arrays & Basic Problem Solving  
+**(Date: 20-Dec-2025)**
+
+- Studied arrays in Java:
+  - Single-dimensional arrays
+  - Multi-dimensional arrays
+- Practiced array traversal and operations.
+- Solved problems related to:
+  - Finding missing elements
+  - Basic array-based logic
+- Strengthened logical thinking using array problems.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 5 – Arrays](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
