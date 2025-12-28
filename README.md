@@ -163,3 +163,19 @@ BridgeLabz-Training/
 👉[Day 9 - Classes and Objects Practice](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
+
+### 🗓️ Day 10 – Constructors & Access Modifiers  
+**(Date: 27-Dec-2025)**
+
+- Practiced:
+  - Default constructor  
+  - Parameterized constructor  
+  - Non-parameterized constructor  
+  - Copy constructor  
+- Learned **Access Modifiers** in Java  
+- Implemented **instance methods**  
+
+🔗 **Code Link:**  
+👉[Day 11 - Constructors Practice](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
+
+---
