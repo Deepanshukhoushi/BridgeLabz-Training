@@ -151,3 +151,15 @@ BridgeLabz-Training/
 👉 [Day 8 – Scenario-based problem ](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
+### 🗓️ Day 9 – Classes, Objects & Introduction to OOPs  
+**(Date: 26-Dec-2025)**  
+
+- Learned **Classes and Objects** in Java  
+- Understood how to define **class structure** and create objects  
+- Started implementing **Object-Oriented Programming (OOPs)** concepts  
+
+🔗 **Code Link:**  
+👉[Day 9 - Classes and Objects Practice](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+
+---
