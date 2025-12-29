@@ -1,6 +1,16 @@
+/*
+Maya’s BMI Fitness Tracker
+Maya is a fitness coach who wants to calculate BMI for her clients.
+Write a Java program that takes height and weight as input, calculates BMI using the formula BMI = weight / (height * height), and prints the BMI category as Underweight, Normal, or Overweight using if-else conditions. Use meaningful variable names and proper comments to maintain clean code.
+*/
+
 import java.util.Scanner;
 public class BmiFitnessTracker {
     public static double calculateBmi(double weightInKg, double heightInMeters) {
+	if (heightInMeters <= 0 || weightInKg <= 0) {
+    	    System.out.println("Height and weight must be positive values.");
+       	    return;
+ 	}
         return weightInKg / (heightInMeters * heightInMeters);
     }
 
@@ -29,7 +39,7 @@ public class BmiFitnessTracker {
         String category = getBmiCategory(bmi);
 
         // Output
-        System.out.println("\nYour BMI is: " + bmi);
+        System.out.printf("\nYour BMI is: %.2f%n", bmi);
         System.out.println("BMI Category: " + category);
 
         input.close();
