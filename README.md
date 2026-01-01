@@ -162,7 +162,7 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 9 – Scenario-based problem ](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+👉 [Day 9 – Leetcode problem ](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 ---
 
@@ -191,6 +191,22 @@ BridgeLabz-Training/
   - Rohan’s Library Reminder App 
 - Practiced in leetcode.
 - Solved problem related to array.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 11 – Scenario-based problem ](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 🗓 Day 12 – Leetcode and Scenario-based problem 
+**(Date: 30-Dec-2025)**
+
+- Scenario based questions
+  - Raj’s Result Generator
+  - Metro Smart Card Fare Deduction
+- Practiced in leetcode.
+- Solved problem related to array and strings.
 - Organized programs into proper folders.
 - Committed and pushed all changes successfully.
 
