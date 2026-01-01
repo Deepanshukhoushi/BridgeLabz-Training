@@ -196,3 +196,21 @@ BridgeLabz-Training/
 👉[Day 11 - Static, Final & Type Checking](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/level1)
 
 ---
+
+### 🗓️ Day 12 – UML Diagrams: Class & Sequence Diagrams
+**(Date: 30-Dec-2025)**
+
+- Learned **Class Diagrams** to represent the static structure of a system by:
+  - Defining classes, attributes, and methods
+  - Showing relationships between classes
+- Understood key class relationships including:
+  - Association, aggregation, composition, and inheritance
+- Studied **Sequence Diagrams** to model dynamic behavior by:
+  - Showing interaction between objects
+  - Representing the order of method calls over time
+- Used UML diagrams to improve system design clarity and object interaction understanding
+
+🔗 **Code Link:**  
+👉[Day 12 – UML Diagrams: Class & Sequence Diagrams](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectdiagram)
+
+---
