@@ -214,3 +214,18 @@ BridgeLabz-Training/
 👉[Day 12 – UML Diagrams: Class & Sequence Diagrams](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectdiagram)
 
 ---
+
+### 🗓️ Day 13 – Inheritance
+**(Date: 31-Dec-2025)**
+
+- Learned Java Inheritance to reuse properties and behaviors from parent classes  
+- Implemented single, multilevel, and hierarchical inheritance  
+- Practiced method overriding to modify parent class behavior safely  
+- Used `super()` to invoke parent class constructors  
+- Applied inheritance with polymorphism for dynamic method dispatch  
+- Understood access control using public, protected, default, and private members  
+
+🔗 **Code Link:**  
+👉[Day 13 – Inheritance](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+---
