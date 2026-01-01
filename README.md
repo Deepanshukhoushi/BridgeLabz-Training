@@ -47,3 +47,18 @@
 - 🔗 [inBuiltFunctions](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/level1)
 
 ---
+
+## 🗓️ Day 12 – Object Modeling, Class Diagram
+**📅 Date:** 30-Dec-2025  
+
+### 📚 Topics Covered
+- Helps developers understand system organization and class interactions clearly.
+- Class Diagram is a static UML diagram that represents the structure of a system.
+- It shows classes, along with their attributes and methods.
+- Classes are connected using relationships like association, aggregation, composition, and inheritance.
+- It acts as a blueprint for object-oriented system design.
+
+### 💻 Practice Code
+- 🔗 [Object Modeling, Class Diagram](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/relationships)
+
+---
