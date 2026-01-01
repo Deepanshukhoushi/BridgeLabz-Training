@@ -162,6 +162,23 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 9 – Scenario-based problem ](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+👉 [Day 9 – Scenario-based problem ](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+---
+
+### 🗓 Day 10 – Scenario-based problem 
+**(Date: 27-Dec-2025)**
+
+- Scenario based questions
+  - Shopkeeper’s Discount Dashboard
+  - School Bus Attendance System 
+  - Phone Recharge Simulator
+- Practiced in leetcode.
+- Solved problem related to array.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 10 – Scenario-based problem ](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
