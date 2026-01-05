@@ -1,6 +1,6 @@
 ## BridgeLabz-Training
 
-### 🗓 Day 16 – Java DSA practice  
+### 🗓 Day 15 – Java DSA practice  
 **(Date: 02-Jan-2026)**
 
 - Introduction of Data Structure 
@@ -17,17 +17,16 @@
 👉 [Day 16 – LinkedList](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/linkedlist)
 
 ---
----
 
 
-### 🗓 Day 17 – Stack, Queue,  Hash Maps & Hash Functions
+### 🗓 Day 16 – Stack, Queue,  Hash Maps & Hash Functions
 **(Date: 03-Jan-2026)**
 
 - Introduction to Stacks 
 - Types of Queue in Java
-- Simple Queue
-- PriorityQueue
-- Deque
+  - Simple Queue
+  - PriorityQueue
+  - Deque
 - Solved practice problems based on programming elements.
 - Committed and pushed solutions to the repository.
 
@@ -35,4 +34,22 @@
 👉 [Day 17 – Stack, Queue](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/stackandqueue)
 
 ---
+
+### 🗓 Day 17 – Stack, Queue,  Hash Maps & Hash Functions
+**(Date: 05-Jan-2026)**
+
+- Introduction to Sorting algorithms
+- Some sorting algorithms 
+  - Bubble sort
+  - Insertion sort
+  - Selection Sort
+  - Heap sort
+  - Merge sort
+  - quick sort
+- Solved practice problems based on programming elements.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 17 – Sorting Algorithms](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/sorting)
+
 ---
