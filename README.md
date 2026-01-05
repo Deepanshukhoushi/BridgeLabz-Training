@@ -6,10 +6,33 @@
 - Introduction of Data Structure 
 - Key Features of Data Structures in Java
 - Types of Data Structures in Java
-- Single Linked List
-- Double Linked List
-- Circular  Linked List
+- Types of Linked- List
+    - Single Linked List
+    - Double Linked List
+    - Circular  Linked List
 - Solved practice problems based on programming elements.
 - Committed and pushed solutions to the repository.
 
+🔗 **Code Link:**  
+👉 [Day 16 – LinkedList](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/linkedlist)
+
+---
+---
+
+
+### 🗓 Day 17 – Stack, Queue,  Hash Maps & Hash Functions
+**(Date: 03-Jan-2026)**
+
+- Introduction to Stacks 
+- Types of Queue in Java
+- Simple Queue
+- PriorityQueue
+- Deque
+- Solved practice problems based on programming elements.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 17 – Stack, Queue](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/stackandqueue)
+
+---
 ---
