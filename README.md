@@ -243,3 +243,18 @@ BridgeLabz-Training/
 👉[Day 14 – Encapsulation](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 
 ---
+
+### 🗓️ Day 15 – Data Structure Introduction and LinkedList
+**(Date: 02-Jan-2026)**
+
+- Introduction of Data Structure 
+- Key Features of Data Structures in Java
+- Types of Data Structures in Java
+- Single Linked List
+- Double Linked List
+- Circular  Linked List 
+
+🔗 **Code Link:**  
+👉[Day 15 – LinkedList](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/linkedlist)
+
+---
