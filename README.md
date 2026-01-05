@@ -229,3 +229,17 @@ BridgeLabz-Training/
 👉[Day 13 – Inheritance](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
 ---
+
+### 🗓️ Day 14 – Encapsulation, Interfaces and polymorphism
+**(Date: 01-Jan-2026)**
+
+- Learned Java Inheritance to reuse properties and behaviors from parent classes  
+- Implemented Encapsulation
+- Practiced method overriding to modify parent class behavior safely  
+- Used getter and setter methods
+- Applied encapsulation with polymorphism for dynamic method dispatch  
+
+🔗 **Code Link:**  
+👉[Day 14 – Encapsulation](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
+
+---
