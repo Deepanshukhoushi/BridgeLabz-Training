@@ -1,6 +1,6 @@
 ## BridgeLabz-Training
 
-### 🗓 Day 15 – Java DSA practice  
+### 🗓 Day 15 – Java DSA practice and Linked List 
 **(Date: 02-Jan-2026)**
 
 - Introduction of Data Structure 
@@ -14,7 +14,7 @@
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 16 – LinkedList](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/linkedlist)
+👉 [Day 15 – LinkedList](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/linkedlist)
 
 ---
 
@@ -31,11 +31,11 @@
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 17 – Stack, Queue](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/stackandqueue)
+👉 [Day 16 – Stack, Queue](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/stackandqueue)
 
 ---
 
-### 🗓 Day 17 – Stack, Queue,  Hash Maps & Hash Functions
+### 🗓 Day 17 – Sorting algorithms
 **(Date: 05-Jan-2026)**
 
 - Introduction to Sorting algorithms
@@ -51,5 +51,22 @@
 
 🔗 **Code Link:**  
 👉 [Day 17 – Sorting Algorithms](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/sorting)
+
+---
+
+### 🗓 Day 18 – Linear Search and Binary Search
+**(Date: 06-Jan-2026)**
+
+- Introduction to Linear Search and Binary Search algorithms
+- Topics covered
+  - StringBuilder
+  - StringBuffer
+  - FileReader
+  - InputStreamReader
+- Solved practice problems based on programming elements.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 18 – Linear Search and Binary Search](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/linearandbinarysearch)
 
 ---
