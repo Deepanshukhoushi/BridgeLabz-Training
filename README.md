@@ -211,6 +211,22 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 11 – Scenario-based problem ](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+👉 [Day 12 – Scenario-based problem ](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 🗓 Day 13 – Leetcode and Scenario-based problem 
+**(Date: 01-Jan-2026)**
+
+- Scenario based questions
+  - Raj’s Result Generator
+  - Metro Smart Card Fare Deduction
+- Practiced in leetcode.
+- Solved problem related to array and strings.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 13 – LeetCode Problems ](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 ---
