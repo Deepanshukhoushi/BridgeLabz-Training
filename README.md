@@ -105,3 +105,20 @@
 👉[Day 15 – Scenario based problems](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
 
 ---
+
+### 🗓️ Day 16 – Scenario based & Real-World OOP Design
+**(Date: 03-Jan-2026)**
+
+- Practiced Scenario based problems like 
+  - CabbyGo – A Ride-Hailing App in the Making
+  - MyBank – Managing Customer Accounts
+- Broke complex logic into small, reusable methods for readability
+- Designed focused methods like validateUserInput() and calculateDiscount()
+- Practiced method decomposition to improve maintainability
+- Applied OOP using real-world, story-driven scenarios
+- Implemented Encapsulation, Inheritance, Abstraction & Polymorphism 
+
+🔗 **Code Link:**  
+👉[Day 16 – Scenario based problems](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
+
+---
