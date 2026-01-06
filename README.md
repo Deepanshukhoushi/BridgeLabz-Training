@@ -294,3 +294,18 @@ Committed and pushed solutions to the repository
 
 ---
 
+### 🗓 Day 18 – StringBuilder, StringBuffer, Linear Search and Binary Search
+**(Date: 06-Jan-2026)**
+
+- Introduction to Linear Search and Binary Search algorithms
+- Topics covered
+  - StringBuilder
+  - StringBuffer
+  - FileReader
+  - InputStreamReader
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 18 – StringBuilder, StringBuffer](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/stringbuilder)
+
+---
