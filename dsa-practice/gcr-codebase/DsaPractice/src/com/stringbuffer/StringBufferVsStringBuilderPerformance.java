@@ -1,0 +1,46 @@
+package com.stringbuffer;
+
+import java.util.Scanner;
+
+public class StringBufferVsStringBuilderPerformance {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Enter number of concatenations: ");
+        int count = scanner.nextInt();
+        scanner.nextLine(); // consume newline
+
+        System.out.print("Enter string to concatenate: ");
+        String text = scanner.nextLine();
+
+        // ---------- StringBuffer ----------
+        StringBuffer stringBuffer = new StringBuffer();
+        long startBuffer = System.nanoTime();
+
+        for (int i = 0; i < count; i++) {
+            stringBuffer.append(text);
+        }
+
+        long endBuffer = System.nanoTime();
+        long bufferTime = endBuffer - startBuffer;
+
+        // ---------- StringBuilder ----------
+        StringBuilder stringBuilder = new StringBuilder();
+        long startBuilder = System.nanoTime();
+
+        for (int i = 0; i < count; i++) {
+            stringBuilder.append(text);
+        }
+
+        long endBuilder = System.nanoTime();
+        long builderTime = endBuilder - startBuilder;
+
+        // ---------- Output ----------
+        System.out.println("\n--- Performance Comparison ---");
+        System.out.println("StringBuffer Time   : " + bufferTime + " ns");
+        System.out.println("StringBuilder Time : " + builderTime + " ns");
+
+        scanner.close();
+    }
+}
