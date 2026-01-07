@@ -155,3 +155,20 @@
 👉[Day 17 – Scenario based problems](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
 
 ---
+
+### 🗓️ Day 19 – Scenario based problems
+**(Date: 07-Jan-2026)**
+
+- Practiced Scenario based problems like 
+  - BookBazaar – Digital Bookstore System
+  - LoanBuddy – Loan Approval Automation
+  - ParkEase – Smart Parking Management System
+- Broke complex logic into small, reusable methods for readability
+- Practiced method decomposition to improve maintainability
+- Applied OOP using real-world, story-driven scenarios
+- Implemented Encapsulation, Inheritance, Abstraction & Polymorphism 
+
+🔗 **Code Link:**  
+👉[Day 18 – Scenario based problems](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
+
+---
