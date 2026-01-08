@@ -309,3 +309,22 @@ Committed and pushed solutions to the repository
 👉 [Day 18 – StringBuilder, StringBuffer](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/stringbuilder)
 
 ---
+
+### 🗓 Day 19 – Time and space complexity analysis
+**(Date: 07-Jan-2026)**
+
+- Introduction to Linear Search and Binary Search algorithms
+- Studied 
+  - What is Runtime Analysis?
+  - Understanding Big-O Notation
+  - Time Complexity Analysis
+  - Space Complexity Analysis
+  - Best, Worst, and Average Case Complexities
+  - Practical Guidelines for Optimizing Java Code
+- Solved practice problems based on programming elements.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 19 – Time and space complexity analysis](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/timeandspacecomplexity)
+
+---
