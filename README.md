@@ -74,7 +74,6 @@
 ### 🗓 Day 19 – Time and space complexity analysis
 **(Date: 07-Jan-2026)**
 
-- Introduction to Linear Search and Binary Search algorithms
 - Studied 
   - What is Runtime Analysis?
   - Understanding Big-O Notation
@@ -87,5 +86,23 @@
 
 🔗 **Code Link:**  
 👉 [Day 19 – Time and space complexity analysis](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/timeandspacecomplexity)
+
+---
+
+### 🗓 Day 20 – Time complexity analysis problem solving
+**(Date: 08-Jan-2026)**
+
+- General Algorithm Best Practices 
+  - Search a Target in a Large Dataset
+  - Sorting Large Data Efficiently
+  - String Concatenation Performance
+  - Large File Reading Efficiency
+  - Recursive vs Iterative Fibonacci Computation
+  -  Comparing Different Data Structures for Searching
+- Time and space Complexity Optimization.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 20 – Time and space complexity analysis](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/timeandspacecomplexity)
 
 ---
