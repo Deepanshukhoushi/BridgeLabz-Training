@@ -188,3 +188,20 @@
 👉[Day 20 – Scenario based problems](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
 
 ---
+
+### 🗓️ Day 21 – Scenario based problems
+**(Date: 09-Jan-2026)**
+
+- Practiced Scenario based problems like 
+  - Artify – Digital Art Marketplace
+  - FoodLoop – Restaurant Ordering System
+  - SkillForge – Online Learning Portal
+- Broke complex logic into small, reusable methods for readability
+- Practiced method decomposition to improve maintainability
+- Applied OOP using real-world, story-driven scenarios
+- Implemented Encapsulation, Inheritance, Abstraction & Polymorphism 
+
+🔗 **Code Link:**  
+👉[Day 21 – Scenario based problems](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
+
+---
