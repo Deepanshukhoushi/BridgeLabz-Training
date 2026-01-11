@@ -118,3 +118,18 @@
 👉 [Day 21 – Algorithm's Runtime Analysis & Big-O Notation](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/timeandspacecomplexity)
 
 ---
+
+### 🗓 Day 22 – Data Structure Scenario based problem solving
+**(Date: 10-Jan-2026)**
+
+- Real-world scenario-based problems 
+  - BookShelf – Library Organizer (HashMap + Linked List)
+  - BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+  - AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+- Time and space Complexity Optimization.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 22 – Data Structure Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com)
+
+---
