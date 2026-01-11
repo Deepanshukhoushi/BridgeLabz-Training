@@ -96,13 +96,25 @@
   - Search a Target in a Large Dataset
   - Sorting Large Data Efficiently
   - String Concatenation Performance
-  - Large File Reading Efficiency
-  - Recursive vs Iterative Fibonacci Computation
-  -  Comparing Different Data Structures for Searching
 - Time and space Complexity Optimization.
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
 👉 [Day 20 – Time and space complexity analysis](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/timeandspacecomplexity)
+
+---
+
+### 🗓 Day 21 – Algorithm's Runtime Analysis & Big-O Notation
+**(Date: 09-Jan-2026)**
+
+- General Algorithm Best Practices 
+  - Large File Reading Efficiency
+  - Recursive vs Iterative Fibonacci Computation
+  - Comparing Different Data Structures for Searching
+- Time and space Complexity Optimization.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 21 – Algorithm's Runtime Analysis & Big-O Notation](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/timeandspacecomplexity)
 
 ---
