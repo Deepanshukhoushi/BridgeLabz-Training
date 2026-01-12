@@ -21,9 +21,7 @@ public class TrainApp {
         	System.out.println("\nEnter Compartment name to find OR Enter (exit): ");
             found = input.next();
         } while (!found.equals("exit"));
-        
-        
-        
+       
         System.out.println("\nEnter Compartment to remove: ");
         train.removeCompartment(input.next());
         train.traverseForward();
