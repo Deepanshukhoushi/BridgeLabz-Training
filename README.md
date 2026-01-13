@@ -1,6 +1,6 @@
 ## BridgeLabz-Training
-
-### 🗓 Day 15 – Java DSA practice and Linked List 
+## Week 03 - Data Structures & Algorithms
+### 🗓 Day 01 – Java DSA practice and Linked List 
 **(Date: 02-Jan-2026)**
 
 - Introduction of Data Structure 
@@ -14,12 +14,12 @@
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 15 – LinkedList](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/linkedlist)
+👉 [Day 01 – LinkedList](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/linkedlist)
 
 ---
 
 
-### 🗓 Day 16 – Stack, Queue,  Hash Maps & Hash Functions
+### 🗓 Day 02 – Stack, Queue,  Hash Maps & Hash Functions
 **(Date: 03-Jan-2026)**
 
 - Introduction to Stacks 
@@ -31,11 +31,11 @@
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 16 – Stack, Queue](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/stackandqueue)
+👉 [Day 02 – Stack, Queue](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/stackandqueue)
 
 ---
 
-### 🗓 Day 17 – Sorting algorithms
+### 🗓 Day 03 – Sorting algorithms
 **(Date: 05-Jan-2026)**
 
 - Introduction to Sorting algorithms
@@ -50,11 +50,11 @@
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 17 – Sorting Algorithms](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/sorting)
+👉 [Day 03 – Sorting Algorithms](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/sorting)
 
 ---
 
-### 🗓 Day 18 – Linear Search and Binary Search
+### 🗓 Day 04 – Linear Search and Binary Search
 **(Date: 06-Jan-2026)**
 
 - Introduction to Linear Search and Binary Search algorithms
@@ -67,11 +67,11 @@
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 18 – Linear Search and Binary Search](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/linearandbinarysearch)
+👉 [Day 04 – Linear Search and Binary Search](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/linearandbinarysearch)
 
 ---
 
-### 🗓 Day 19 – Time and space complexity analysis
+### 🗓 Day 05 – Time and space complexity analysis
 **(Date: 07-Jan-2026)**
 
 - Studied 
@@ -85,11 +85,11 @@
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 19 – Time and space complexity analysis](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/timeandspacecomplexity)
+👉 [Day 05 – Time and space complexity analysis](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/timeandspacecomplexity)
 
 ---
 
-### 🗓 Day 20 – Time complexity analysis problem solving
+### 🗓 Day 06 – Time complexity analysis problem solving
 **(Date: 08-Jan-2026)**
 
 - General Algorithm Best Practices 
@@ -100,11 +100,10 @@
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 20 – Time and space complexity analysis](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/timeandspacecomplexity)
+👉 [Day 06 – Time and space complexity analysis](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/timeandspacecomplexity)
 
 ---
-
-### 🗓 Day 21 – Algorithm's Runtime Analysis & Big-O Notation
+### 🗓 Day 07 – Algorithm's Runtime Analysis & Big-O Notation
 **(Date: 09-Jan-2026)**
 
 - General Algorithm Best Practices 
@@ -115,11 +114,11 @@
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 21 – Algorithm's Runtime Analysis & Big-O Notation](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/timeandspacecomplexity)
+👉 [Day 07 – Algorithm's Runtime Analysis & Big-O Notation](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaPractice/src/com/timeandspacecomplexity)
 
 ---
 
-### 🗓 Day 22 – Data Structure Scenario based problem solving
+### 🗓 Day 08 – Data Structure Scenario based problem solving
 **(Date: 10-Jan-2026)**
 
 - Real-world scenario-based problems 
@@ -130,11 +129,11 @@
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 22 – Data Structure Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com)
+👉 [Day 08 – Data Structure Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com)
 
 ---
 
-### 🗓 Day 22 – Data Structure Scenario based problem solving
+### 🗓 Day 09 – Data Structure Scenario based problem solving
 **(Date: 12-Jan-2026)**
 
 - Real-world scenario-based problems 
@@ -145,6 +144,21 @@
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 22 – Data Structure Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com)
+👉 [Day 09 – Data Structure Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com)
+
+---
+
+### 🗓 Day 10 – Data Structure Scenario based problem solving
+**(Date: 12-Jan-2026)**
+
+- Real-world scenario-based problems 
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+  - ParcelTracker – Delivery Chain Management (Singly Linked List)
+  - ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
+- Time and space Complexity Optimization.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 10 – Data Structure Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com)
 
 ---
