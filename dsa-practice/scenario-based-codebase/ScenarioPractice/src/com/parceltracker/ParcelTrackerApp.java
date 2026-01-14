@@ -1,4 +1,4 @@
-package parceltracker;
+package com.parceltracker;
 import java.util.Scanner;
 public class ParcelTrackerApp {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package parceltracker;
+package com.parceltracker;
 
 class StageNode {
     String stage;
