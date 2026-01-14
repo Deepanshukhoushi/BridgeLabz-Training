@@ -1,4 +1,5 @@
 ## BridgeLabz-Training
+## Week 01 - Core Programming
 ### 🗓 Day 1 – Git & GitHub Setup
 
 **(Date: 16-Dec-2025)**
@@ -151,7 +152,8 @@ BridgeLabz-Training/
 👉 [Day 8 – Scenario-based problem ](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
-
+---
+## Week 02 - Object-Oriented Programming
 ### 🗓️ Day 9 – Classes, Objects & Introduction to OOPs  
 **(Date: 26-Dec-2025)**  
 
@@ -243,7 +245,8 @@ BridgeLabz-Training/
 👉[Day 14 – Encapsulation](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 
 ---
-
+---
+## Week 03 - Data Structures & Algorithms
 ### 🗓️ Day 15 – Data Structure Introduction and LinkedList
 **(Date: 02-Jan-2026)**
 
@@ -375,5 +378,29 @@ Committed and pushed solutions to the repository
 
 🔗 **Code Link:**  
 👉 [Day 22 – Data Structure Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com)
+
+---
+
+### 🗓 Day 23 – Data Structure and OOPS scenario based problem solving
+**(Date: 12-Jan-2026)**
+
+- Real-world DSA scenario-based problems 
+  - CallCenter – Customer Queue Manager (Queue + HashMap)
+  - TrainCompanion – Compartment Navigation System (Doubly LinkedList)
+  - TextEditor – Undo/Redo Functionality (Stack)
+  - Time and space Complexity Optimization.
+- Real-world OOPS scenario-based problems 
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform
+  - Integrating Classes, Variables & Methods,
+Constructors, Access Modifiers, Interfaces, Operators, and OOP Principles
+(Encapsulation, Inheritance, Abstraction, Polymorphism).
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 23 – Data Structure Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com)
+
+👉 [Day 23 – OOPS Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
 
 ---
