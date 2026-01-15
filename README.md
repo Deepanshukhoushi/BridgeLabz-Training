@@ -1,5 +1,5 @@
 # BridgeLabz-Training
-
+## Week 02 - Object-Oriented Programming
 ### 🗓️ Day 9 – Classes, Objects & Introduction to OOPs  
 **(Date: 26-Dec-2025)**  
 
@@ -203,5 +203,22 @@
 
 🔗 **Code Link:**  
 👉[Day 21 – Scenario based problems](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
+
+---
+
+### 🗓️ Day 22 – Scenario based problems
+**(Date: 12-Jan-2026)**
+
+- Practiced Scenario based problems like 
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform
+- Broke complex logic into small, reusable methods for readability
+- Practiced method decomposition to improve maintainability
+- Applied OOP using real-world, story-driven scenarios
+- Implemented Encapsulation, Inheritance, Abstraction & Polymorphism 
+
+🔗 **Code Link:**  
+👉[Day 22 – Scenario based problems](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
 
 ---
