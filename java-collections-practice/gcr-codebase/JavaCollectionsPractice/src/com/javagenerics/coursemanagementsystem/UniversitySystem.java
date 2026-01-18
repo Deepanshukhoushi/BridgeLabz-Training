@@ -2,7 +2,7 @@ package com.javagenerics.coursemanagementsystem;
 
 import java.util.Scanner;
 
-public class UniversityCourseSystem {
+public class UniversitySystem {
 
     private static final Scanner scanner = new Scanner(System.in);
     private static final CourseManager manager = new CourseManager();
