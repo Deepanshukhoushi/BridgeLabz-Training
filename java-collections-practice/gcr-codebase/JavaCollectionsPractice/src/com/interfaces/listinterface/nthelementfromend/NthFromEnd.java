@@ -1,8 +1,8 @@
 package com.interfaces.listinterface.nthelementfromend;
 import java.util.LinkedList;
 import java.util.Scanner;
-public class NthFromEnd {
 
+public class NthFromEnd {
     public static String findNthFromEnd(LinkedList<String> list, int n) {
         int slow = 0;
         int fast = 0;
