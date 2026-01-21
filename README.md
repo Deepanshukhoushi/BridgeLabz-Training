@@ -491,7 +491,7 @@ Constructors, Access Modifiers, Interfaces, Operators, and OOP Principles
 - Practiced Scenario based questions of sorting algorithms
 
 - OOP Concepts Scenario-based Problems(Classes, Objects, Constructors, Encapsulation, Method Creation, this keyword)
-  - DigiContact Pvt. Ltd., a startup creating digital tools for managing
+  - Address Book System - DigiContact Pvt. Ltd., a startup creating digital tools for managing
 contacts and relationships
 - Committed and pushed solutions to the repository.
 
@@ -499,5 +499,20 @@ contacts and relationships
 👉 [Day 28 – Sorting Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com/sorting)
 
 👉 [Day 28 – OOPS Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
+
+---
+
+### 🗓 Day 29 – Data Structure scenario based problem solving
+**(Date: 20-Jan-2026)**
+
+- Real-world scenario-based problems involving sorting algorithms(Bubble Sort, Insertion Sort, Merge Sort)
+  - MovieTime – Theater Show Listings (Insertion Sort)
+  - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  - GamerZone – High Score Ranking System (Quick Sort)
+- Practiced Scenario based questions of sorting algorithms
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 29 – Sorting Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com/sorting)
 
 ---
