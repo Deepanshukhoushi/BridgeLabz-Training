@@ -389,6 +389,7 @@ Committed and pushed solutions to the repository
   - TrainCompanion – Compartment Navigation System (Doubly LinkedList)
   - TextEditor – Undo/Redo Functionality (Stack)
   - Time and space Complexity Optimization.
+
 - Real-world OOPS scenario-based problems 
   - HomeNest – Smart Home Device Manager
   - BudgetWise – Personal Finance Tracker
@@ -412,6 +413,7 @@ Constructors, Access Modifiers, Interfaces, Operators, and OOP Principles
   - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
   - ParcelTracker – Delivery Chain Management (Singly Linked List)
   - ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
+
 - Real-world OOPS scenario-based problems 
   - PayXpress – Utility Bill Payment System
   - Bird Sanctuary
@@ -454,5 +456,27 @@ Constructors, Access Modifiers, Interfaces, Operators, and OOP Principles
 
 🔗 **Code Link:**  
 👉 [Day 26 – Sorting Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com/sorting)
+
+---
+
+### 🗓 Day 27 – Data Structure and OOPS scenario based problem solving
+**(Date: 17-Jan-2026)**
+
+- Real-world scenario-based problems involving sorting algorithms(Bubble Sort, Insertion Sort, Merge Sort)
+  - ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+  - FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+  - IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+  - SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+
+- OOP Concepts Scenario-based Problems(Classes, Objects, Constructors, Encapsulation, Method Creation, this keyword)
+  - Bag-n-Ball Organizer
+  - GeoMeasure Solutions
+- Practiced Scenario based questions of sorting algorithms
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 27 – Sorting Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com/sorting)
+
+👉 [Day 27 – OOPS Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
 
 ---
