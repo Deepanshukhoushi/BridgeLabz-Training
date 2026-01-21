@@ -467,16 +467,37 @@ Constructors, Access Modifiers, Interfaces, Operators, and OOP Principles
   - FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
   - IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
   - SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+- Practiced Scenario based questions of sorting algorithms
 
 - OOP Concepts Scenario-based Problems(Classes, Objects, Constructors, Encapsulation, Method Creation, this keyword)
   - Bag-n-Ball Organizer
   - GeoMeasure Solutions
-- Practiced Scenario based questions of sorting algorithms
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
 👉 [Day 27 – Sorting Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com/sorting)
 
 👉 [Day 27 – OOPS Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
+
+---
+
+### 🗓 Day 28 – Data Structure and OOPS scenario based problem solving
+**(Date: 19-Jan-2026)**
+
+- Real-world scenario-based problems involving sorting algorithms(Bubble Sort, Insertion Sort, Merge Sort)
+  - EduResults – Rank Sheet Generator (Merge Sort)
+  - FlashDealz – Product Sorting by Discount (Quick Sort)
+  - FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+- Practiced Scenario based questions of sorting algorithms
+
+- OOP Concepts Scenario-based Problems(Classes, Objects, Constructors, Encapsulation, Method Creation, this keyword)
+  - DigiContact Pvt. Ltd., a startup creating digital tools for managing
+contacts and relationships
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 28 – Sorting Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com/sorting)
+
+👉 [Day 28 – OOPS Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
 
 ---
