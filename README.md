@@ -39,3 +39,20 @@ BridgeLabz-Training/
 👉[Day 02 – Collection Interfaces](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/interfaces)
 
 ---
+
+### 🗓️ Day 03 – Java I/O Streams
+**(Date: 19-Jan-2026)**
+
+- Overview of Java I/O Streams
+- Types of Streams
+  - File Streams
+  - Object Streams
+  - ByteArray Streams
+  - Buffered Streams
+  - Reader and Writer
+- practiced some questions and pushed to git repository.
+
+🔗 **Code Link:**  
+👉[Day 03 – Java I/O Streams](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/javastreams)
+
+---
