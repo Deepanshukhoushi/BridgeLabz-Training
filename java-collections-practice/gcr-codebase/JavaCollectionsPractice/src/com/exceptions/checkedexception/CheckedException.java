@@ -1,4 +1,4 @@
-package com.exceptions;
+package com.exceptions.checkedexception;
 import java.io.FileReader;
 import java.io.BufferedReader;
 import java.io.IOException;
