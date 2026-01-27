@@ -595,7 +595,7 @@ contacts and relationships
 👉 [Day 31 – Reflection & Annotation Practice](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotationsandreflection)
 
 ---
-
+## Week 5: Java IOStreams
 ### 📅 Day 32 – Java Advanced: Scenario-Based Practice (Collections, I/O, Regex, Generics)
 **(Date: 23-Jan-2026)**
 **(Focus: Real-World Data Processing using Core Java APIs)**
@@ -609,4 +609,46 @@ contacts and relationships
 🔗 *Code Link:*  
 👉 [Day 32 – Advanced Java Scenario-Based Practice](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/com)
 
+###  Java File Handling: CSV Data Handling  
+**(Date: 23-Jan-2025)**
+**(Focus: CSV Handling from Basics to Advanced Scenarios)**
+
+- Practiced reading, writing, and counting records in CSV files using structured data formats.
+- Implemented filtering, searching, updating, and sorting CSV records based on business rules.
+- Worked on data validation using regex, duplicate detection, and conversion of CSV data into Java objects.
+- Handled advanced operations like merging multiple CSV files and processing large CSV files efficiently in chunks.
+- Explored real-world integrations including database-to-CSV reporting, JSON ↔ CSV conversion, and encrypting/decrypting sensitive CSV fields.
+
+🔗 *Code Link:*  
+👉 [Day 32 – CSV Data Handling Practice](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/IOProgramming/src/com/csvhandling)
+
+
+---
+
+### 📅 Day 33 – Java Collections: Scenario-Based Practice
+**(Date: 24-Jan-2026)**
+**(Focus: Real-World Data Processing using Collections, I/O & Regex)**
+
+- Worked on advanced Java collection-based scenarios integrating I/O Streams, Regex, Generics, and Custom Exceptions.
+- Implemented MedInventory to process hospital inventory CSV files, detect expired items, remove duplicates, and track low stock levels.
+- Built ChatLogParser to analyze chat logs using regex, group messages by user, and filter idle conversations with sorted outputs.
+- Developed SongVault to manage a personal music library by extracting song metadata, grouping by genre, and filtering using streams.
+- Created tools like ExamResultUploader and DealTracker to validate CSV/text data, calculate rankings, and manage discounts efficiently.
+  
+🔗 *Code Link:*  
+👉 [Day 33 – DSA Scenario-Based Practice](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/com)
+
+### 📅 Day 33 – Java Data Handling: JSON Processing
+**(Date: 24-Jan-2025)**
+**(Focus: Working with JSON Data in Java Applications)**
+
+- Studied JSON (JavaScript Object Notation) as a lightweight format for data exchange.
+- Learned how to read, parse, and write JSON data in Java applications.
+- Worked with JSON objects and arrays to structure and manipulate data effectively.
+- Focused on using JSON for configuration handling, data transfer, and API-style communication.
+- Emphasized writing clean, structured, and maintainable code while working with JSON data.
+
+
+🔗 *Code Links:*  
+👉 [Day 33 – JSON Data Handling](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/IOProgramming/src/com/jsondatahandling) 
 ---
