@@ -426,8 +426,8 @@ Constructors, Access Modifiers, Interfaces, Operators, and OOP Principles
 👉 [Day 24 – OOPS Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
 
 ---
-
-### 🗓 Day 25 – Data Structure scenario based problem solving
+## Week 04 Java Collections, Streams
+### 🗓 Day 25 – Data Structure scenario based problem solving And Java Collections Framework: List, Set, Queue & Map 
 **(Date: 15-Jan-2026)**
 
 - Sorting scenario-based problems 
@@ -436,12 +436,21 @@ Constructors, Access Modifiers, Interfaces, Operators, and OOP Principles
   - ZipZipMart – Daily Sales Summary Report (Merge Sort)
   - ExamCell – Student Rank Generator (Merge Sort)
   - EventManager – Ticket Price Optimizer (Quick Sort)
+
+- Studied the Java Collections Framework in depth, covering List, Set, Queue, and Map interfaces.
+- Explored List implementations such as ArrayList and LinkedList for ordered and index-based data storage.
+- Learned Set implementations like HashSet and TreeSet to handle unique elements and sorted collections.
+- Understood Queue and Deque implementations for FIFO processing and task scheduling.
+- Studied Map implementations such as HashMap and TreeMap for efficient key–value data storage and retrieval.
+- Focused on choosing the right collection type based on performance, ordering, and use-case requirements.
+
 - Practiced Scenario based questions of sorting algorithms
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
 👉 [Day 25 – Sorting Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com/sorting)
 
+👉 [Day 25 – Collections Framework](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/interfaces)
 ---
 
 ### 🗓 Day 26 – Sorting Scenario based problem solving
@@ -456,6 +465,20 @@ Constructors, Access Modifiers, Interfaces, Operators, and OOP Principles
 
 🔗 **Code Link:**  
 👉 [Day 26 – Sorting Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com/sorting)
+
+### Java Collections Framework: List, Set, Queue & Map 
+**(Date: 16-Jan-2025)**
+**(Focus: Complete Overview of Java Collections Framework)**
+
+- Studied the Java Collections Framework in depth, covering List, Set, Queue, and Map interfaces.
+- Explored List implementations such as ArrayList and LinkedList for ordered and index-based data storage.
+- Learned Set implementations like HashSet and TreeSet to handle unique elements and sorted collections.
+- Understood Queue and Deque implementations for FIFO processing and task scheduling.
+- Studied Map implementations such as HashMap and TreeMap for efficient key–value data storage and retrieval.
+- Focused on choosing the right collection type based on performance, ordering, and use-case requirements.
+
+🔗 *Code Links:*  
+👉 [Day 26 – Java Collections Practice](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/interfaces)
 
 ---
 
@@ -500,6 +523,19 @@ contacts and relationships
 
 👉 [Day 28 – OOPS Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
 
+### Java File Handling & I/O Streams
+**(Date: 19-Jan-2025)**
+**(Focus: File Handling, Buffered Streams, Serialization & Advanced I/O)**
+
+- Studied Java File Handling and I/O Streams to understand how Java reads and writes data using byte and character streams.
+- Learned the difference between basic file streams and buffered streams, and how buffering improves performance for large file operations.
+- Practiced reading user input from the console and writing structured data into files using reader and writer classes.
+- Explored object serialization and deserialization to store and retrieve Java objects using ObjectInputStream and ObjectOutputStream.
+- Worked with ByteArray streams, data streams, piped streams, and large-file processing to handle real-world I/O scenarios efficiently.
+
+🔗 *Code Link:*  
+👉 [Day 28 – Java Streams](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/javastreams)
+
 ---
 
 ### 🗓 Day 29 – Data Structure scenario based problem solving
@@ -514,5 +550,33 @@ contacts and relationships
 
 🔗 **Code Link:**  
 👉 [Day 29 – Sorting Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com/sorting)
+
+###  Java: Exception Handling
+**(Date: 20-Jan-2025)**
+**(Focus: Handling Runtime Errors and Building Robust Applications)**
+
+- Studied Java Exception Handling to manage runtime errors and prevent abnormal program termination.
+- Learned the use of try, catch, finally, throw, and throws keywords for controlled error handling.   
+- Explored checked vs unchecked exceptions and common exceptions like NullPointerException, ArithmeticException, and IOException.
+- Practiced creating and using custom exceptions for application-specific error scenarios.
+- Focused on writing robust, readable, and maintainable code with proper exception-handling best practices.
+
+🔗 *Code Link:*
+👉 [Day 29 – Exception Handling Practice](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions)
+
+---
+
+## 📅 Day 30 – Java Fundamentals: Regex & JUnit
+**(Date: 21-Jan-2026)**
+**(Focus: Regular Expressions & Unit Testing)**
+
+- Studied Regex basics including metacharacters and quantifiers for building effective patterns.
+- Implemented common regex use cases such as email validation, password strength checks, and phone number formatting.
+- Worked with the Java Regex API, using Pattern and Matcher classes for pattern matching.
+- Practiced important regex methods: find(), matches(), and replaceAll() for string validation and manipulation.
+- Learned JUnit fundamentals including annotations, test case writing, test class structure, and assertions for validating logic.
+  
+🔗 *Code Link:*  
+👉 [Day 30 – Regex, Junit ](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regexandjunit)
 
 ---
