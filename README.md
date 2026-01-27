@@ -595,3 +595,18 @@ contacts and relationships
 👉 [Day 31 – Reflection & Annotation Practice](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotationsandreflection)
 
 ---
+
+### 📅 Day 32 – Java Advanced: Scenario-Based Practice (Collections, I/O, Regex, Generics)
+**(Date: 23-Jan-2026)**
+**(Focus: Real-World Data Processing using Core Java APIs)**
+
+- Worked on real-world Java scenarios integrating Collections, Generics, I/O Streams, Regex, and Exception Handling.
+- Implemented ResumeAnalyzer to read resume files, extract contact details and skills using regex, and organize candidates using maps and sorted lists.
+- Built TravelLog using object serialization and collections to store trips, analyze travel data, and generate summaries.
+- Designed FeedbackGuru to process feedback files, extract ratings via regex, and categorize feedback using generic data structures.
+- Developed tools like CodeRepoCleaner and ExamScanner to scan files, validate formats, organize data, and rank results efficiently.
+  
+🔗 *Code Link:*  
+👉 [Day 32 – Advanced Java Scenario-Based Practice](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioBased/src/com)
+
+---
