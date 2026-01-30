@@ -17,9 +17,8 @@ public class PatientIDPrinting {
         }
 
         System.out.println("\nPatient IDs for Admin Verification:");
-        
         patientIds.forEach(System.out::println);
-
+        
         sc.close();
     }
 }
