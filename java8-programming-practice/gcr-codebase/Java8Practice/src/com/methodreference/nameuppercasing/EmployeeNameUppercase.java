@@ -20,7 +20,7 @@ public class EmployeeNameUppercase {
         System.out.println("\nEmployee Names in Uppercase (HR Letter):");
 
         employeeNames.stream()
-                     .map(String::toUpperCase)
+                     .map(str -> str.toUpperCase())
                      .forEach(System.out::println);
 
         sc.close();
