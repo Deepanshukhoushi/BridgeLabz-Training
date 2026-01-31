@@ -1,4 +1,4 @@
-package com.functionalinterface.backgroundjobexecution;
+package com.functionalinterface.funtionalinterfaces.backgroundjobexecution;
 
 public class BackgroundJobExecution {
     public static void main(String[] args) {
