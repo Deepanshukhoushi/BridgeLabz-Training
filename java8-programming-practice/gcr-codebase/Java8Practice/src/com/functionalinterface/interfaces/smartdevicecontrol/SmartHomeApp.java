@@ -1,4 +1,4 @@
-package com.functionalinterface.smartdevicecontrol;
+package com.functionalinterface.interfaces.smartdevicecontrol;
 import java.util.Scanner;
 public class SmartHomeApp {
     public static void main(String[] args) {
