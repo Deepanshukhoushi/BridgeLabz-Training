@@ -1,4 +1,4 @@
-package com.functionalinterface.vehiclerentalsystem;
+package com.functionalinterface.interfaces.vehiclerentalsystem;
 
 class Bike implements Vehicle {
 

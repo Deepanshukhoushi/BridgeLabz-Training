@@ -1,4 +1,4 @@
-package com.functionalinterface.vehiclerentalsystem;
+package com.functionalinterface.interfaces.vehiclerentalsystem;
 
 public class VehicleRentalApp {
     public static void main(String[] args) {
