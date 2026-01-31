@@ -1,4 +1,4 @@
-package com.functionalinterface.stringlengthchecker;
+package com.functionalinterface.functionalinterfaces.stringlengthchecker;
 
 import java.util.Scanner;
 import java.util.function.Function;
