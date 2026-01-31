@@ -1,4 +1,4 @@
-package com.functionalinterface.temperaturealertsystem;
+package com.functionalinterface.functionalinterfaces.temperaturealertsystem;
 
 import java.util.Scanner;
 import java.util.function.Predicate;
