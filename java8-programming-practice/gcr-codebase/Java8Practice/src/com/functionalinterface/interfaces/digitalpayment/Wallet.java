@@ -1,4 +1,4 @@
-package com.functionalinterface.digitalpayment;
+package com.functionalinterface.interfaces.digitalpayment;
 
 class Wallet implements Payment {
 

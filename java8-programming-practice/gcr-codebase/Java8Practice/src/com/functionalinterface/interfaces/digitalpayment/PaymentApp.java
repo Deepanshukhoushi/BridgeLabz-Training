@@ -1,4 +1,4 @@
-package com.functionalinterface.digitalpayment;
+package com.functionalinterface.interfaces.digitalpayment;
 import java.util.Scanner;
 public class PaymentApp {
     public static void main(String[] args) {
