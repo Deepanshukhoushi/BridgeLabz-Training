@@ -69,3 +69,18 @@
 [Day 04: Stream API](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/streamapi)
 
 ---
+
+### Day 05: Collectors 
+**Date:** 30-Jan-2026
+- Studied **Collectors** used with `Stream.collect()` for data aggregation.
+- Learned roles of collectors: **transforming, aggregating, grouping, and partitioning data**.
+- Practiced commonly used collectors: `toList()`, `toSet()`, `toMap()`, `joining()`.
+- Implemented `groupingBy()` and `partitioningBy()` for classification logic.
+- Used `summarizingInt()` to generate statistical summaries.
+- Solved real-world scenarios using Streams and Collectors.
+- Committed and pushed all solutions
+
+🔗 *Code Link*
+[Day 05: Collectors](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/collectors)
+
+---
