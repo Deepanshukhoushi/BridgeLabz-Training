@@ -51,3 +51,21 @@
 [Day 03: Interfaces](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/functionalinterface)
 
 ---
+
+### Day 04: Stream API (Java 8)
+**Date:** 29-Jan-2026
+
+- Studied Java 8 Stream API for functional-style data processing.
+- Practiced **intermediate operations**: `filter`, `map`, `flatMap`, `distinct`, `sorted`, `peek`, `limit`, `skip`.
+- Used **terminal operations**: `collect`, `forEach`, `reduce`, `count`, `anyMatch`, `allMatch`, `noneMatch`.
+- Understood **stateless vs stateful operations**  
+  (e.g., `filter` – stateless; `sorted`, `distinct` – stateful).
+- Learned differences between **ordered and unordered streams**.
+- Worked with **parallel streams** and their behavior.
+- Compared `forEach()` in **Iterable vs Stream** context.
+- Implemented real world questions and committed all code.
+
+🔗 *Code Link*
+[Day 04: Stream API](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/streamapi)
+
+---
