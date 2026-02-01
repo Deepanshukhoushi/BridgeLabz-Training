@@ -35,3 +35,19 @@
 [Day 02: Scenario Based Solution](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioPractice/src/com/organization)
 
 ---
+
+### Day 03: Interfaces (Functional, Marker and static Default methods)
+**Date:** 28-Jan-2026
+
+- Implemented different types of interfaces in Java.
+- Worked with **Marker Interfaces** for tagging and conditional behavior.
+- Used **Static methods in interfaces** for utility-style functionality.
+- Implemented **Default methods** to provide common behavior across classes.
+- Created and used **Functional Interfaces** for lambda expression support.
+- Practiced real-world Problems.
+- Committed and pushed all solutions.
+
+🔗 *Code Link*
+[Day 03: Interfaces](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/functionalinterface)
+
+---
