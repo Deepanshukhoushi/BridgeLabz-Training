@@ -709,7 +709,7 @@ contacts and relationships
 
 ---
 
-### Day 04: Stream API (Java 8)
+### Day 37: Stream API (Java 8)
 **Date:** 29-Jan-2026
 
 - Studied Java 8 Stream API for functional-style data processing.
@@ -723,7 +723,7 @@ contacts and relationships
 - Implemented real world questions and committed all code.
 
 🔗 *Code Link*
-[Day 04: Stream API](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/streamapi)
+[Day 37: Stream API](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/streamapi)
 
 ---
 
