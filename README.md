@@ -727,7 +727,7 @@ contacts and relationships
 
 ---
 
-### Day 05: Collectors 
+### Day 38: Collectors 
 **Date:** 30-Jan-2026
 - Studied **Collectors** used with `Stream.collect()` for data aggregation.
 - Learned roles of collectors: **transforming, aggregating, grouping, and partitioning data**.
@@ -738,6 +738,6 @@ contacts and relationships
 - Committed and pushed all solutions
 
 🔗 *Code Link*
-[Day 05: Collectors](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/collectors)
+[Day 38: Collectors](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/collectors)
 
 ---
