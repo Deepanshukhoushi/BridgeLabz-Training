@@ -658,7 +658,7 @@ contacts and relationships
 # BridgeLabz-Training
 ## Week 6: Java 8 Features
 
-### Day 01: Lambda Expressions, Method References & Interfaces
+### Day 34: Lambda Expressions, Method References & Interfaces
 **Date:** 27-Jan-2026
 
 - Set up and revised the java8-programming-practice branch structure.
@@ -672,11 +672,11 @@ contacts and relationships
 - Solved practice problems and committed all work.
 
 🔗 *Code Link*
-[Day 01: Lambda, Method refrence and Interface](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/lambdaexpressions)
+[Day 34: Lambda, Method refrence and Interface](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/lambdaexpressions)
 
 ---
 
-### Day 02: Scenario-Based Problems on Lambda Expressions
+### Day 35: Scenario-Based Problems on Lambda Expressions
 **Date:** 27-Jan-2026
 
 - Solved 5 scenario-based problems covering different real-world use cases:
@@ -689,11 +689,11 @@ contacts and relationships
 - Committed and pushed all solutions.
 
 🔗 *Code Link*
-[Day 02: Scenario Based Solution](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioPractice/src/com/organization)
+[Day 35: Scenario Based Solution](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioPractice/src/com/organization)
 
 ---
 
-### Day 03: Interfaces (Functional, Marker and static Default methods)
+### Day 36: Interfaces (Functional, Marker and static Default methods)
 **Date:** 28-Jan-2026
 
 - Implemented different types of interfaces in Java.
@@ -705,7 +705,7 @@ contacts and relationships
 - Committed and pushed all solutions.
 
 🔗 *Code Link*
-[Day 03: Interfaces](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/functionalinterface)
+[Day 36: Interfaces](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/functionalinterface)
 
 ---
 
