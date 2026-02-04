@@ -451,6 +451,7 @@ Constructors, Access Modifiers, Interfaces, Operators, and OOP Principles
 👉 [Day 25 – Sorting Scenario based problem solving](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioPractice/src/com/sorting)
 
 👉 [Day 25 – Collections Framework](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/interfaces)
+
 ---
 
 ### 🗓 Day 26 – Sorting Scenario based problem solving
@@ -739,5 +740,37 @@ contacts and relationships
 
 🔗 *Code Link*
 [Day 38: Collectors](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/collectors)
+
+---
+
+## 🗓 Week 7 : Java Design Principles & Design Patterns 
+### 🗓 Day 39 – Design Principles & Design Patterns  
+**(Date: 31-Jan-2026)**
+- Studied SOLID principles:
+  - Single Responsibility (SRP)
+  - Open/Closed (OCP)
+  - Liskov Substitution (LSP)
+  - Interface Segregation (ISP)
+  - Dependency Inversion (DIP)
+- Covered additional design principles:
+  - DRY, KISS, YAGNI, Separation of Concerns
+  - Programming to interfaces
+  - Favor composition over inheritance
+- Practiced Object Calisthenics rules for clean design:
+  - One level of indentation
+  - One dot per line
+  - Small cohesive classes
+- Studied GoF design patterns overview:
+  - Creational, Structural, Behavioral categories
+- Implemented core patterns:
+  - Singleton
+  - Factory
+  - Observer
+  - Builder
+- Analyzed UML diagrams and real-world analogies for patterns.
+- Solved pattern-based exercises and mini design problems.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Design Principles & Patterns](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPractice/src/com/designpattern/librarymanagementsystem)
 
 ---
