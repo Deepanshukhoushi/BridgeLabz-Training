@@ -7,7 +7,7 @@ class AmbulanceService implements TransportService, EmergencyService {
     public String getRoute() { return "Emergency Route"; }
 
     public void startService() {
-        System.out.println("Ambulance rushing 🚨");
+        System.out.println("Ambulance rushing ");
     }
 
     public void stopService() {

@@ -20,7 +20,7 @@ public class SmartCityApp {
                 distance -> distance * 10;
 
         double distance = GeoUtils.calculateDistance(1, 1, 4, 5);
-        System.out.println("Calculated Fare: ₹" +
+        System.out.println("Calculated Fare: " +
                 calculator.calculateFare(distance));
 
         List<PassengerTrip> trips = Arrays.asList(

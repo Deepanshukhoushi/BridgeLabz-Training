@@ -21,7 +21,7 @@ class TransportAnalytics {
 
         System.out.println("Trips by Route: " + byRoute.keySet());
         System.out.println("Peak Trips: " + peakSplit.get(true).size());
-        System.out.println("Total Revenue: ₹" + fareStats.getSum());
-        System.out.println("Average Fare: ₹" + fareStats.getAverage());
+        System.out.println("Total Revenue: " + fareStats.getSum());
+        System.out.println("Average Fare: " + fareStats.getAverage());
     }
 }
