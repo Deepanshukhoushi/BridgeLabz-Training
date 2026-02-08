@@ -1,0 +1,77 @@
+-- Create Database & Table
+CREATE DATABASE employee_db;
+USE employee_db;
+
+CREATE TABLE employee (
+    emp_id INT PRIMARY KEY,
+    emp_name VARCHAR(100) NOT NULL,
+    salary DECIMAL(10,2) NOT NULL
+);
+
+
+-- Add Employee (INSERT)
+INSERT INTO employee (emp_id, emp_name, salary)
+VALUES (101, 'Rahul', 35000);
+
+ 
+-- View All Employees (SELECT)
+SELECT * FROM employee;
+
+-- Output
+/* 
++--------+----------+----------+
+| emp_id | emp_name | salary   |
++--------+----------+----------+
+| 101    | Rahul    | 35000.00 |
++--------+----------+----------+
+*/
+
+-- Update Employee Salary (UPDATE)
+UPDATE employee
+SET salary = 45000
+WHERE emp_id = 102;
+
+
+-- Delete Employee (DELETE)
+DELETE FROM employee
+WHERE emp_id = 103;
+
+
+-- Search Employee by Name (SELECT with WHERE)
+SELECT * FROM employee
+WHERE emp_name = 'Rahul';
+
+-- Output 
+/*
++--------+----------+----------+
+| emp_id | emp_name | salary   |
++--------+----------+----------+
+| 101    | Rahul    | 35000.00 |
++--------+----------+----------+
+*/
+
+-- Case-insensitive search:
+SELECT * FROM employee
+WHERE emp_name LIKE 'rahul';
+
+-- Output 
+/*
++--------+----------+----------+
+| emp_id | emp_name | salary   |
++--------+----------+----------+
+| 101    | Rahul    | 35000.00 |
++--------+----------+----------+
+*/
+
+-- Partial name search:
+SELECT * FROM employee
+WHERE emp_name LIKE '%ra%';
+
+-- Output
+/* 
++--------+----------+----------+
+| emp_id | emp_name | salary   |
++--------+----------+----------+
+| 101    | Rahul    | 35000.00 |
++--------+----------+----------+
+*/
