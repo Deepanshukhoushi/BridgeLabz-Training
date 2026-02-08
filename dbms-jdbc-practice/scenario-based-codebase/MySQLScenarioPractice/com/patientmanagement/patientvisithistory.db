@@ -1,0 +1,22 @@
+-- View Patient Visit History (JOIN Query)
+
+SELECT
+    p.patient_id,
+    p.name AS patient_name,
+    v.visit_date,
+    d.doctor_name,
+    d.specialization,
+    v.diagnosis,
+    v.prescription
+FROM patients p
+JOIN appointments a ON p.patient_id = a.patient_id
+JOIN visits v ON a.appointment_id = v.appointment_id
+JOIN doctors d ON a.doctor_id = d.doctor_id
+WHERE p.patient_id = 1
+ORDER BY v.visit_date ASC;
+
+-- output
+| patient_id | patient_name | visit_date | doctor_name | specialization | diagnosis | prescription |
+| ---------- | ------------ | ---------- | ----------- | -------------- | --------- | ------------ |
+| 1          | Rahul Sharma | 2024-01-10 | Dr. Mehta   | Cardiology     | BP        | Tablets      |
+| 1          | Rahul Sharma | 2024-03-05 | Dr. Singh   | General        | Fever     | Paracetamol  |

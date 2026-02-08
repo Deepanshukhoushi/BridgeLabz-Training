@@ -1,0 +1,13 @@
+CREATE DATABASE patient_management;
+USE patient_management;
+
+CREATE TABLE patients (
+    patient_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    dob DATE NOT NULL,
+    phone VARCHAR(15) UNIQUE NOT NULL,
+    email VARCHAR(100) UNIQUE NOT NULL,
+    address TEXT,
+    blood_group VARCHAR(5)
+);
+

@@ -1,0 +1,35 @@
+-- Search Patient by ID
+SELECT *
+FROM patients
+WHERE patient_id = 1;
+
+-- Search Patient by Phone Number
+SELECT *
+FROM patients
+WHERE phone = '9876543210';
+
+-- Search Patient by Name
+SELECT *
+FROM patients
+WHERE name LIKE '%Rahul%';
+
+--Starts With
+SELECT *
+FROM patients
+WHERE name LIKE 'Ra%';
+
+-- Ends With
+SELECT *
+FROM patients
+WHERE name LIKE '%Sharma';
+
+-- Display Search Results
+SELECT patient_id, name, phone, email, blood_group
+FROM patients
+WHERE name LIKE '%Rahul%';
+
+-- output 
+| patient_id | name         | phone      | email                                     | blood_group |
+| ---------- | ------------ | ---------- | ----------------------------------------- | ----------- |
+| 1          | Rahul Sharma | 9876543210 | [rahul@gmail.com](mailto:rahul@gmail.com) | O+          |
+| 4          | Rahul Verma  | 9123456789 | [rv@gmail.com](mailto:rv@gmail.com)       | A+          |
