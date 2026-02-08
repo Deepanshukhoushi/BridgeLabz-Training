@@ -1,0 +1,116 @@
+CREATE DATABASE library_db;
+USE library_db;
+
+CREATE TABLE books (
+    book_id INT PRIMARY KEY,
+    title VARCHAR(150),
+    author VARCHAR(100),
+    category VARCHAR(50),
+    available_copies INT
+);
+
+CREATE TABLE students (
+    student_id INT PRIMARY KEY,
+    student_name VARCHAR(100)
+);
+
+CREATE TABLE borrow_records (
+    record_id INT AUTO_INCREMENT PRIMARY KEY,
+    student_id INT,
+    book_id INT,
+    borrow_date DATE,
+    return_date DATE,
+    fine DECIMAL(6,2),
+    FOREIGN KEY (student_id) REFERENCES students(student_id),
+    FOREIGN KEY (book_id) REFERENCES books(book_id)
+);
+
+INSERT INTO books VALUES
+(1, 'Java Programming', 'James Gosling', 'Programming', 3),
+(2, 'Database Systems', 'Elmasri', 'DBMS', 2),
+(3, 'Operating Systems', 'Galvin', 'OS', 1);
+
+INSERT INTO students VALUES
+(101, 'Rahul'),
+(102, 'Anita');
+
+SELECT * FROM books;
+
+-- Output 
+/*
++---------+-------------------+---------------+-------------+------------------+
+| book_id | title             | author        | category    | available_copies |
++---------+-------------------+---------------+-------------+------------------+
+| 1       | Java Programming  | James Gosling | Programming | 3                |
+| 2       | Database Systems  | Elmasri       | DBMS        | 2                |
+| 3       | Operating Systems | Galvin        | OS          | 1                |
++---------+-------------------+---------------+-------------+------------------+
+*/
+
+START TRANSACTION;
+INSERT INTO borrow_records (student_id, book_id, borrow_date, return_date, fine)
+VALUES (101, 2, '2026-02-01', NULL, 0);
+UPDATE books SET available_copies = available_copies - 1 WHERE book_id = 2;
+COMMIT;
+
+SELECT * FROM books WHERE book_id = 2;
+
+-- Output
+/* 
++---------+------------------+---------+----------+------------------+
+| book_id | title            | author  | category | available_copies |
++---------+------------------+---------+----------+------------------+
+| 2       | Database Systems | Elmasri | DBMS     | 1                |
++---------+------------------+---------+----------+------------------+
+*/
+
+UPDATE borrow_records
+SET return_date = '2026-02-12',
+    fine = GREATEST(DATEDIFF('2026-02-12', borrow_date) - 7, 0) * 5
+WHERE record_id = 1;
+
+SELECT * FROM borrow_records;
+
+-- Output 
+/*
++-----------+------------+---------+-------------+-------------+------+
+| record_id | student_id | book_id | borrow_date | return_date | fine |
++-----------+------------+---------+-------------+-------------+------+
+| 1         | 101        | 2       | 2026-02-01  | 2026-02-12  | 20.00|
++-----------+------------+---------+-------------+-------------+------+
+*/
+
+SELECT * FROM books WHERE category = 'DBMS';
+
+-- Output
+/* 
++---------+------------------+---------+----------+------------------+
+| book_id | title            | author  | category | available_copies |
++---------+------------------+---------+----------+------------------+
+| 2       | Database Systems | Elmasri | DBMS     | 1                |
++---------+------------------+---------+----------+------------------+
+*/
+
+SELECT * FROM books WHERE author LIKE '%James%';
+
+-- Output
+/* 
++---------+------------------+---------------+-------------+------------------+
+| book_id | title            | author        | category    | available_copies |
++---------+------------------+---------------+-------------+------------------+
+| 1       | Java Programming | James Gosling | Programming | 3                |
++---------+------------------+---------------+-------------+------------------+
+*/
+
+SELECT * FROM books
+WHERE available_copies > 0
+AND category = 'Programming';
+
+-- Output
+/* 
++---------+------------------+---------------+-------------+------------------+
+| book_id | title            | author        | category    | available_copies |
++---------+------------------+---------------+-------------+------------------+
+| 1       | Java Programming | James Gosling | Programming | 3                |
++---------+------------------+---------------+-------------+------------------+
+*/
