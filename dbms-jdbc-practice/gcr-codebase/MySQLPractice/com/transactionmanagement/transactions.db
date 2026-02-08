@@ -1,0 +1,106 @@
+-- Create Database & Tables
+CREATE DATABASE banking_db;
+USE banking_db;
+
+-- O/P 
+-- Query OK, 1 row affected
+-- Database changed
+
+Accounts Table
+CREATE TABLE accounts (
+    account_id INT PRIMARY KEY,
+    account_holder VARCHAR(100),
+    balance DECIMAL(10,2) NOT NULL
+);
+
+
+-- Transaction History Table
+CREATE TABLE transactions (
+    txn_id INT AUTO_INCREMENT PRIMARY KEY,
+    from_account INT,
+    to_account INT,
+    amount DECIMAL(10,2),
+    txn_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (from_account) REFERENCES accounts(account_id),
+    FOREIGN KEY (to_account) REFERENCES accounts(account_id)
+);
+
+
+-- Insert Sample Data
+INSERT INTO accounts VALUES
+(1001, 'Rahul', 50000),
+(1002, 'Anita', 30000),
+(1003, 'Suresh', 20000);
+
+
+-- Check Balance
+SELECT account_id, account_holder, balance
+FROM accounts
+WHERE account_id = 1001;
+
+-- Output 
+/*
++------------+----------------+----------+
+| account_id | account_holder | balance  |
++------------+----------------+----------+
+| 1001       | Rahul          | 50000.00 |
++------------+----------------+----------+
+*/
+
+-- Money Transfer (IMPORTANT – TRANSACTION)
+Scenario:
+
+Transfer ₹5000 from Rahul (1001) to Anita (1002)
+
+START TRANSACTION;
+
+-- Deduct money from sender
+UPDATE accounts
+SET balance = balance - 5000
+WHERE account_id = 1001 AND balance >= 5000;
+
+-- Add money to receiver
+UPDATE accounts
+SET balance = balance + 5000
+WHERE account_id = 1002;
+
+-- Record transaction
+INSERT INTO transactions (from_account, to_account, amount)
+VALUES (1001, 1002, 5000);
+
+COMMIT;
+
+-- Rollback Example (Failure Case)
+
+ROLLBACK;
+
+
+-- View Transaction History
+All Transactions
+SELECT * FROM transactions;
+
+-- Output 
+/*
++--------+--------------+------------+--------+---------------------+
+| txn_id | from_account | to_account | amount | txn_date            |
++--------+--------------+------------+--------+---------------------+
+| 1      | 1001         | 1002       | 5000.00| 2026-02-08 14:20:15 |
++--------+--------------+------------+--------+---------------------+
+*/
+
+-- Account-wise History (Rahul)
+SELECT * FROM transactions
+WHERE from_account = 1001 OR to_account = 1001;
+
+-- Output 
+/*
++--------+--------------+------------+--------+---------------------+
+| txn_id | from_account | to_account | amount | txn_date            |
++--------+--------------+------------+--------+---------------------+
+| 1      | 1001         | 1002       | 5000.00| 2026-02-08 14:20:15 |
++--------+--------------+------------+--------+---------------------+
+*/
+
+
+-- Verify Updated Balances
+SELECT * FROM accounts;
