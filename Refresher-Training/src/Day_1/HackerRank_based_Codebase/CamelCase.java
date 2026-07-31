@@ -17,7 +17,7 @@ public class CamelCase {
         String s = bufferedReader.readLine();
         int result = camelcase(s);
 
-        System.out.println(result);        
+        System.out.println(result);
 
         bufferedReader.close();
     }
