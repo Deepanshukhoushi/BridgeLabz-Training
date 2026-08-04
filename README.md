@@ -62,4 +62,37 @@ Worked through key String behaviors:
 
 ---
 
+## 📅 Day 2 — Stacks & Queues
+*(Date: 03-08-2026)*
 
+### 🧠 What Was Covered
+
+#### Stack
+- Understood the **LIFO** (Last In First Out) principle and when to apply it.
+- Used Java's built-in `Stack<T>` class for push, pop, peek, and isEmpty operations.
+- Learned how to maintain a **secondary stack** alongside the main stack to track auxiliary information like the current maximum.
+- Explored using a stack to store **state history** for undo-type operations.
+
+#### Queue
+- Understood the **FIFO** (First In First Out) principle.
+- Learned how to **simulate a Queue using two Stacks** — lazy transfer from input stack to output stack only when the output stack is empty.
+
+---
+
+## 🔍 Solution Highlights
+
+**Balanced Brackets** — Pushed every opening bracket onto a stack. For each closing bracket, checked if the top of the stack was the matching opener — if not or stack was empty, returned `NO`. Returned `YES` only if the stack was empty at the end.
+
+**Equal Stacks** — Computed the total sum of all three stacks upfront. Then repeatedly removed the top element from whichever stack had the largest sum until all three sums were equal.
+
+**Queue Using Two Stacks** — Maintained an `input` stack for enqueue and an `output` stack for dequeue/peek. Transferred all elements from input to output (reversing the order) only when output was empty, achieving amortized O(1) per operation.
+
+**Simple Text Editor** — Used a `StringBuilder` for the current text and a `Stack<String>` to save snapshots before every append or delete. Undo simply popped the last saved state and restored it.
+
+**Maximum Element** — Maintained a main stack and a parallel `maxStack`. On push, added to `maxStack` only if the new element was greater than or equal to the current max. On pop, removed from `maxStack` only if the popped element matched the current max. Query always returns `maxStack.peek()` in O(1).
+
+**Truck Tour** — Tracked `currentSurplus` and `totalSurplus` while iterating through pumps. Whenever `currentSurplus` dropped below zero, reset it and moved the candidate start to the next pump. If `totalSurplus >= 0` at the end, the start index is valid.
+
+👉 [Day 2 - HackerRank Solutions](https://github.com/Deepanshukhoushi/BridgeLabz-Training/tree/Refresher-Training/Refresher-Training/src/Day_2/HackerRank_Problems)
+
+---
